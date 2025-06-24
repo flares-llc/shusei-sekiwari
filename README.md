@@ -66,6 +66,6 @@
 
 ## お問い合わせ
 
-ご質問・ご要望等は、[株式会社フレアーズお問い合わせフォーム](https://flares.jp/contact/) よりご連絡ください。
+ご質問・ご要望等は、[フレアーズ合同会社お問い合わせフォーム](https://flares.jp/contact/) よりご連絡ください。
 
 ご不明点があれば、`sample/sample.xlsx` や `gas/main.js` をご参照ください。
