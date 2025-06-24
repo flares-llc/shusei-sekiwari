@@ -1,5 +1,13 @@
 # shusei-sekiwari
 
+## OSS としての公開について
+
+本システムはオープンソースソフトウェア（OSS）として MIT ライセンスで公開しています。
+
+- ライセンス: [MIT License](./LICENSE)
+- 貢献: [CONTRIBUTING.md](./CONTRIBUTING.md) をご参照ください。
+- 行動規範: [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+
 ## 概要
 
 本システムは、Google スプレッドシートと Google Apps Script（GAS）を利用して動作するシフト・集計管理システムです。
